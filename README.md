@@ -5,7 +5,7 @@
 - 🌊 I’m currently working on *River Alerts*
 - 🌱 I’m currently learning ```['AWS', 'Golang', 'NoSQL']```
 - 📫 How to reach me: *Check out my contact details in my Profile*
-- 😄 Pronouns: ```['Outgoing', 'curious', 'nerd']```
+- 😄 Pronouns: ```['outgoing', 'curious', 'nerdy']```
 <!-- 👯 I’m looking to collaborate on -->
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
