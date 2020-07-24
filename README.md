@@ -3,7 +3,7 @@
 #### I'm Fergus, a Software Developer living in Christchurch, New Zealand
 
 - 🏢 I'm currently working at [**Comrad Medical Systems**](https://comrad.co.nz/)
-- ⚙️ I use daily: ```['react', 'typescript', 'node.js', 'java']```
+- ⚙️ I use daily: ```['React', 'Typescript', 'Node.js', 'Java', 'PostgreSQL']```
 - 🌊 In my spare time I've been working on [**River Alerts**](https://github.com/fergusfrl/River-Alerts)
 - 🌱 I’m currently learning: ```['AWS', 'Golang', 'NoSQL']```
 - 📫 Get in touch with me at [**fergusfrl.xyz**](https://www.fergusfrl.xyz/)
