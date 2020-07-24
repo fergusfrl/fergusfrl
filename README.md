@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-#### I'm Fergus, a Software Developer working in Christchurch, New Zealand
+#### I'm Fergus, a Software Developer living in Christchurch, New Zealand
 
 - 🌊 I’m currently working on *River Alerts*
 - 🌱 I’m currently learning ```['AWS', 'Golang', 'NoSQL']```
