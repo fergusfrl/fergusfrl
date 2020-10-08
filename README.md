@@ -1,3 +1,6 @@
+![Greeting Image](https://github.com/fergusfrl/fergusfrl/blob/master/Kia%20Ora!.png)
+
+
 ### Hello World 👋
 
 #### I'm Fergus, a Software Developer living in Christchurch, New Zealand
