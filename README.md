@@ -11,7 +11,7 @@
 - 😄 Adjectives: ```['outgoing', 'curious', 'geeky']```
 
 #### Goals for 2020
-- [ ] Become AWS cloud practitioneer certified
+- [ ] Become AWS certified cloud practitioner
 - [x] Create application using Firebase
 - [x] Working from home office setup
 - [ ] Complete 3 PostgreSQL courses (2/3)
