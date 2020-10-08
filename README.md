@@ -10,13 +10,9 @@
 - 💬 Ask me about all things [**Agile**](https://agilemanifesto.org/). *Alternatively kayaking if you have the time to spare.*
 - 😄 Adjectives: ```['outgoing', 'curious', 'nerdy']```
 
-
-<!-- ⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai -->
-<!-- 👯 I’m looking to collaborate on -->
-<!-- 🤔 I’m looking for help with ... -->
-<!-- 💬 Ask me about ... -->
-<!-- ⚡ Fun fact: ** -->
-
-<!--
-**fergusfrl/fergusfrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+#### Goals for 2020
+- [] Become AWS cloud practitioneer certified
+- [x] Create application using Firebase
+- [x] Working from home office setup
+- [] Complete 3 PostgreSQL courses (2/3)
+- [x] Write 4 blogs
