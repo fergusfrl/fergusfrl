@@ -1,4 +1,4 @@
-### Kia ora 👋
+### Kia ora koutou katoa (Hello everyone) 👋
 
 I am a Software Developer at [Comrad Medical Systems](https://comrad.co.nz/) and help organize [Code Clubs](https://codeclub.nz/) in Christchurch, NZ. I'm a tinkerer at :yellow_heart:&ensp;and am passionate about utalizing cutting edge technologies to solve real world problems.
 
