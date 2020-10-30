@@ -4,7 +4,7 @@ I am a Software Developer at [Comrad Medical Systems](https://comrad.co.nz/) and
 
 <br />
 
-🎯 Goals for 2020:
+##### 🎯 Goals for 2020:
 - [ ] Become AWS certified cloud practitioner
 - [x] Create application using Firebase
 - [x] Working from home office setup
