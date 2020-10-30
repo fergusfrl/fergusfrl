@@ -4,7 +4,7 @@ I am a Software Developer at [Comrad Medical Systems](https://comrad.co.nz/) and
 
 You can find me on:   
 🔹 LinkedIn: [fergusfrl](https://www.linkedin.com/in/fergusfrl)  
-🔹 Website: [www.jfergusfrl.xyz](https://www.fergusfrl.xyz/)  
+🔹 Website: [www.fergusfrl.xyz](https://www.fergusfrl.xyz/)  
 🔹 Email: [fergusfrl@gmail.com](mailto:fergusfrl@gmail.com)  
 
 #### Goals for 2020
