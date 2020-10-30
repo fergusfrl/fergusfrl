@@ -2,12 +2,7 @@
 
 I am a Software Developer at [Comrad Medical Systems](https://comrad.co.nz/) and help organize [Code Clubs](https://codeclub.nz/) in Christchurch, NZ. I'm a tinkerer at :yellow_heart:&ensp;and am passionate about utalizing cutting edge technologies to solve real world problems.
 
-You can find me on:   
-🔹 LinkedIn: [fergusfrl](https://www.linkedin.com/in/fergusfrl)  
-🔹 Website: [www.fergusfrl.xyz](https://www.fergusfrl.xyz/)  
-🔹 Email: [fergusfrl@gmail.com](mailto:fergusfrl@gmail.com)  
-
-#### Goals for 2020
+Goals for 2020:
 - [ ] Become AWS certified cloud practitioner
 - [x] Create application using Firebase
 - [x] Working from home office setup
