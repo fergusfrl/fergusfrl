@@ -1,14 +1,11 @@
-![Greeting Image](https://github.com/fergusfrl/fergusfrl/blob/master/Greetings.png)
+### Kia ora 👋
 
-#### I'm Fergus, a Software Developer living in Christchurch, New Zealand
+I am a Software Developer at [Comrad Medical Systems](https://comrad.co.nz/) and help organize [Code Clubs](https://codeclub.nz/) in Christchurch, NZ. I'm a tinkerer at :yellow_heart:&ensp;and am passionate about utalizing cutting edge technologies to solve real world problems.
 
-- 🏢 I'm work at [**Comrad Medical Systems**](https://comrad.co.nz/) to optimse patient flow for efficiency & effectiveness
-- ⚙️ I use daily: ```['React', 'Typescript', 'Node.js', 'Java', 'PostgreSQL']```
-- 🌊 In my spare time I've been working on [**River Alerts**](https://github.com/fergusfrl/River-Alerts)
-- 🌱 I’m currently learning: ```['AWS', 'Golang', 'NoSQL']```
-- 📫 Get in touch with me at [**fergusfrl.xyz**](https://www.fergusfrl.xyz/)
-- 💬 Ask me about all things [**Agile**](https://agilemanifesto.org/). *Alternatively kayaking if you have the time to spare.*
-- 😄 Adjectives: ```['outgoing', 'curious', 'geeky']```
+You can find me on:   
+🔹 LinkedIn: [fergusfrl](https://www.linkedin.com/in/fergusfrl)  
+🔹 Website: [www.jfergusfrl.xyz](https://www.fergusfrl.xyz/)  
+🔹 Email: [fergusfrl@gmail.com](mailto:fergusfrl@gmail.com)  
 
 #### Goals for 2020
 - [ ] Become AWS certified cloud practitioner
