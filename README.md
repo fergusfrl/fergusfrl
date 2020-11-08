@@ -8,5 +8,5 @@ I am a Software Developer at [Comrad Medical Systems](https://comrad.co.nz/) and
 - [ ] Become AWS certified cloud practitioner
 - [x] Create application using Firebase
 - [x] Working from home office setup
-- [ ] Complete 3 PostgreSQL courses (2/3)
+- [x] Complete 3 PostgreSQL courses (3/3)
 - [x] Write 4 blogs
