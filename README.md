@@ -9,4 +9,4 @@ I am a Software Developer at [Comrad Medical Systems](https://comrad.co.nz/) and
 - [ ] Write 1 blog per month (https://fergusfrl.com/blog/)
 - [ ] Give 2 talks at Chch Meetups
 - [ ] Release Akeela alpha version
-- [ ] Enter the [Coast to Coast](https://www.coasttocoast.co.nz/) multisport event
+- [x] Enter the [Coast to Coast](https://www.coasttocoast.co.nz/) multisport event
