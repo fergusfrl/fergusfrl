@@ -8,5 +8,4 @@ I am a Software Developer at [Comrad Medical Systems](https://comrad.co.nz/) and
 - [ ] Become GCP Associate Cloud Engineer
 - [ ] Write 1 blog per month (https://fergusfrl.com/blog/) (4/12)
 - [x] Give 2 talks at Chch Meetups
-- [ ] Release Akeela alpha version
 - [x] Enter the [Coast to Coast](https://www.coasttocoast.co.nz/) multisport event
