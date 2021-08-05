@@ -6,7 +6,7 @@ I am a Software Developer at [Comrad Medical Systems](https://comrad.co.nz/) and
 
 ##### 🎯 Goals for 2021:
 - [ ] Become GCP Associate Cloud Engineer
-- [ ] Write 1 blog per month (https://fergusfrl.com/blog/) (4/12)
+- [ ] Write 1 blog per month (https://fergusfrl.com/blog/) (6/12)
 - [x] Give 2 talks at Chch Meetups
 - [x] Enter the [Coast to Coast](https://www.coasttocoast.co.nz/) multisport event
 - [ ] Release and receive feedback on [River Alerts](http://riveralerts.co.nz/)
