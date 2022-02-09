@@ -4,9 +4,8 @@ I am a Technical Lead at [Batch](https://www.batch.nz/) and help organize [Code 
 
 <br />
 
-##### 🎯 Goals for 2021:
+##### 🎯 Goals for 2022:
 - [ ] Become GCP Associate Cloud Engineer
-- [ ] Write 1 blog per month (https://fergusfrl.com/blog/) (8/12)
-- [x] Give 2 talks at Chch Meetups
-- [x] Enter the [Coast to Coast](https://www.coasttocoast.co.nz/) multisport event
-- [x] Release and receive feedback on [River Alerts](http://riveralerts.co.nz/)
+- [ ] Present 2 talks at local Meetups
+- [ ] Complete the [Coast to Coast](https://www.coasttocoast.co.nz/) multisport event
+- [ ] Read 15 books
